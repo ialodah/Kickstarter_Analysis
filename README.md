@@ -1,4 +1,4 @@
 # Kickstarter_Analysis
 Challenge 1
 
-![This is an image](resources/theater\%20Outcomes\%20Basedon\%20Launch\%20Date.png)
+![This is an image](resources/theater&#32;Outcomes&#32;Based&#32;on&#32;Launch&#32;Date.png)
